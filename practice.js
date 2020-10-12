@@ -13,3 +13,13 @@ let fourAndTwentyBlackBirds = 24;
 function thisIsAGreatMethod() {
   // Do some stuff
 }
+
+/* File names typically use snake_case or kebab-case: all lowercase letters
+** with individual words separated with underscores (_) or hyphens (-)
+*/
+hello_world.js # snake_case
+hello-world.js # kebab-case
+
+// PascalCase is sometimes called CamelCase
+const SecondsPerMinute = 60; // PascalCase
+const SECONDS_PER_MINUTE = 60; // SCREAMING_SNAKE_CASE
