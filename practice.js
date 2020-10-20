@@ -23,3 +23,5 @@ hello-world.js # kebab-case
 // PascalCase is sometimes called CamelCase
 const SecondsPerMinute = 60; // PascalCase
 const SECONDS_PER_MINUTE = 60; // SCREAMING_SNAKE_CASE
+
+// Need to regularly push commands to github
