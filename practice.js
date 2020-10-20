@@ -24,4 +24,7 @@ hello-world.js # kebab-case
 const SecondsPerMinute = 60; // PascalCase
 const SECONDS_PER_MINUTE = 60; // SCREAMING_SNAKE_CASE
 
-// Need to regularly push commands to github
+// Need to regularly push changes to github
+
+/*Git Init ---> git add (directory) ---> git commit ---> git push origin main
+*/
