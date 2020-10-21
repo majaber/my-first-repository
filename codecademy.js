@@ -10,3 +10,5 @@ function sayThanks(name) {
 }
 sayThanks('Cole');
 */
+
+// Daily upload to github- recall practice
