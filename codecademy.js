@@ -12,3 +12,14 @@ sayThanks('Cole');
 */
 
 // Daily upload to github- recall practice
+
+
+//10/22/2020
+// Single-line block functions
+  const sumNumbers - number => number + number;
+
+  //Multi-line block
+  const sumNumber = number => {
+    const sum = number + number;
+    return sum;
+  }
